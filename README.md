@@ -1,4 +1,4 @@
 # Hello-world
 Testing repository
 hello 
-this is a test- going true the github guide
+this is a test- going through the github guide
